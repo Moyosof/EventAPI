@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "td+QqHTty9mGsg1+Opn6eir0yBycFv8SNoBm66R8y+jHe+gcyBB1pztvY/wxJrmlnJ/P/yqf8njJxBtsmFAMuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taiwo\\Desktop\\EventTicket\\Event.Domain\\Event.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taiwo\\.nuget\\packages\\fluentemail.core\\3.0.2\\fluentemail.core.3.0.2.nupkg.sha512",
+    "C:\\Users\\taiwo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\taiwo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

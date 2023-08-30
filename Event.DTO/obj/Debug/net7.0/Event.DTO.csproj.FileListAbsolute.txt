@@ -1,0 +1,12 @@
+C:\Users\taiwo\Desktop\EventTicket\Event.DTO\bin\Debug\net7.0\Event.DTO.deps.json
+C:\Users\taiwo\Desktop\EventTicket\Event.DTO\bin\Debug\net7.0\Event.DTO.dll
+C:\Users\taiwo\Desktop\EventTicket\Event.DTO\bin\Debug\net7.0\Event.DTO.pdb
+C:\Users\taiwo\Desktop\EventTicket\Event.DTO\obj\Debug\net7.0\Event.DTO.csproj.AssemblyReference.cache
+C:\Users\taiwo\Desktop\EventTicket\Event.DTO\obj\Debug\net7.0\Event.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taiwo\Desktop\EventTicket\Event.DTO\obj\Debug\net7.0\Event.DTO.AssemblyInfoInputs.cache
+C:\Users\taiwo\Desktop\EventTicket\Event.DTO\obj\Debug\net7.0\Event.DTO.AssemblyInfo.cs
+C:\Users\taiwo\Desktop\EventTicket\Event.DTO\obj\Debug\net7.0\Event.DTO.csproj.CoreCompileInputs.cache
+C:\Users\taiwo\Desktop\EventTicket\Event.DTO\obj\Debug\net7.0\Event.DTO.dll
+C:\Users\taiwo\Desktop\EventTicket\Event.DTO\obj\Debug\net7.0\refint\Event.DTO.dll
+C:\Users\taiwo\Desktop\EventTicket\Event.DTO\obj\Debug\net7.0\Event.DTO.pdb
+C:\Users\taiwo\Desktop\EventTicket\Event.DTO\obj\Debug\net7.0\ref\Event.DTO.dll
